@@ -1,5 +1,6 @@
-let teamJohn = {
+﻿let teamJohn = {
     
+
   score1: 89,
   score2: 120,
   score3: 103
